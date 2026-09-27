@@ -1,0 +1,5 @@
+/* Cleared default Vite styles so our App.css controls everything */
+body {
+  margin: 0;
+}
+
